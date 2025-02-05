@@ -1,1 +1,1 @@
-# Escape-From-School-Plan
+# escape-from-school-plan
