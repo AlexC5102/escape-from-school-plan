@@ -2,6 +2,6 @@
 
 What should you do?
 
-[Go to School]()
+[Go to School](school.md)
 
-[Go out somewhere outside other than school]()
+[Go out somewhere outside other than school](out-some-where.md)
