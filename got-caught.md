@@ -1,5 +1,6 @@
-OH NO YOU GOT CAUGHT
-Back to class you can pick your punishment
+## OH NO YOU GOT CAUGHT
+
+## The teacher escorts you back to class
 
 ## YOU LOSE
 
