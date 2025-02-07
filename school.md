@@ -1,4 +1,4 @@
-Escape Plan
+## Escape Plan
 
 [Run out of school](outside.md)
 
