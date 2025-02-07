@@ -4,5 +4,7 @@
 
 ## YOU LOSE
 
+## [Restart](alarm.md)
+
 
 
