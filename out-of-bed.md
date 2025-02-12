@@ -1,6 +1,6 @@
 ## Out of bed
 
-What should you do?
+You get up and get ready for the day. What should you do?
 
 [Go to School](school.md)
 
